@@ -1,0 +1,7 @@
+&bands
+    prefix = 'ge'
+    outdir = './'
+    filband = 'ge.bands'
+    lsym = .false.
+    /
+
