@@ -1,4 +1,4 @@
-# Density_Functional_Theory_concept_and_determine_Germanium_solid_properties
+# Density Functional Theory concept and determine Germanium solid properties
 
 ## Description
 
